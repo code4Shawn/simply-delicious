@@ -6,7 +6,8 @@
     <title>Simply Delicious</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="robots" content="all,follow">
+    <meta name="robots" content="all,follow">      
+    
     <!-- Bootstrap CSS-->
     <link rel="stylesheet" href="https://d19m59y37dris4.cloudfront.net/shirt/2-1-1/vendor/bootstrap/css/bootstrap.min.css">
     <!-- Font Awesome CSS-->
