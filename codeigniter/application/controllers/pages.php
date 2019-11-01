@@ -17,7 +17,7 @@ $data = array(
 //insert data to the database
 return $this->db->insert('clients', $data);
 }
-/*
+
 //login user
 public function login($username,$password){
 //validate the login
@@ -31,7 +31,7 @@ return $result->row(0)->id;
 }else{
 return false;
 }
-}*/
+}
 
 function can_login($uername, $password){
 $this->db->where('username', $username);
