@@ -12,6 +12,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<title>Simply Delicious</title>
 	<!-- Meta tag Keywords -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
 	<meta charset="UTF-8" />
 	<script>
 		addEventListener("load", function () {
@@ -26,6 +27,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 	<!-- Custom-Files -->
 	<link rel="stylesheet" href="css/bootstrap.css">
+	
 	<!-- Bootstrap-Core-CSS -->
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
 	<!-- Style-CSS -->
